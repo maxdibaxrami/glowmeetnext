@@ -19,7 +19,7 @@ export const Navbar = () => {
     <NextUINavbar style={{height:'100px'}}>
       <NavbarContent>
         <NavbarBrand>
-          <p className="font-bold text-4xl my-10">Match</p>
+          <p className="font-bold text-4xl my-10">Matches</p>
         </NavbarBrand>
       </NavbarContent>
 
